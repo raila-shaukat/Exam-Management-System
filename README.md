@@ -113,27 +113,31 @@ git clone https://github.com/raila-shaukat/Exam-Management-System.git
 
 ### 🔐 Login Screen
 
-![Login](screenshots/login.png)
+![Login](screenshots/login signup window.png)
 
 ---
 
 ### 👨‍🏫 Teacher Dashboard
 
-![Teacher Dashboard](screenshots/teacher-dashboard.png)
+![Teacher Dashboard](screenshots/Teacher Dashboard.png)
 
 ---
 
 ### 👨‍🎓 Student Dashboard
 
-![Student Dashboard](screenshots/student-dashboard.png)
+![Student Dashboard](screenshots/Student Dashboard.png)
 
 ---
 
 ### 🗄️ Database
 
-![Database](screenshots/database.png)
+![Database](screenshots/Database record.png)
 
 ---
+
+### Result
+![Result](screenshots/Results.png)
+
 
 ## 🎯 Learning Outcomes
 
