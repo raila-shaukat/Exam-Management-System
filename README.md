@@ -125,13 +125,13 @@ git clone https://github.com/raila-shaukat/Exam-Management-System.git
 
 ### 👨‍🎓 Student Dashboard
 
-![Student Dashboard](screenshots/StudentDashboard.jpg)
+![Student Dashboard](screenshots/Studentdashboard.png)
 
 ---
 
 ### 🗄️ Database
 
-![Database](screenshots/Databaserecord.png)
+![Database](screenshots/Databaserecord.jpg)
 
 ---
 
